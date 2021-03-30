@@ -1,0 +1,6 @@
+.env
+backup/
+node_modules/
+ca/ca_key
+ca/ca_key.pub
+keys/*.pub
